@@ -1,0 +1,179 @@
+@media screen and (max-width:480px) {
+  
+    .navbar{
+        margin: 0;
+
+    }
+    .right img{
+        margin: 0;
+        width: 15px;
+    }
+    .left img{
+        margin: 0;
+    }
+    .rech{
+        width: 10px;
+        position:relative;
+        bottom:18px;
+        margin-left: 180px;
+      }
+      .audio{
+        width:5px;
+      }
+    .logo{
+        width: 50px;
+      }
+      .menu{
+        width: 10px;
+      }
+
+    .middle .search{
+      width:200px;
+      height:20px;
+      padding: 0;
+      margin: 0; 
+      }
+      .mist{
+       display: grid;
+       grid-template-columns: repeat(5,1fr);
+       gap:1;
+       width: 395px;
+       padding-top:20px;
+       padding-bottom: 0;
+       position: relative;
+       right: 150px;
+      }
+      .mist p{
+        height:20px;
+        width:45px;
+        font-size:9px;
+        margin:1px;
+        padding-right:42px;
+      }
+     .sidebar{
+        width:10%;
+        }
+
+    .links a{
+        display:block;
+        font-size: 9px;
+    }
+    .avatar a{
+      display:block;
+      font-size: 10px;
+    }
+    .container{
+        display: grid;
+        grid-template-columns:50%;
+        grid-template-rows:  150px 150px 150px 150px 150px 150px 150px  150px 150px 150px 150px 150px 150px 150px;
+        gap:3;
+        padding-top:50px;
+    }
+    .jour{
+        font-size:9px;
+        display: block;
+        position: relative;
+        margin-left: 150px;
+        bottom:120px;
+    }
+   .navbar1 a{
+        display: block;
+        position: relative;
+        bottom:120px;
+        margin-left: 170px;
+        font-size:6px;
+        font-weight: 700;
+    }
+    .navbar2 a{
+        display: block;
+        position: relative;
+        bottom:120px;
+        margin-left: 170px;
+        font-size:6px;
+        font-weight: 700;
+    }
+    .navbar3 a{
+        display: block;
+        position: relative;
+        margin-left: 170px;
+        font-size:6px;
+        font-weight: 700;
+        bottom:120px;
+    }
+    .navbar4 a{
+        display: block;
+        position: relative;
+        margin-left: 170px;
+        font-size:6px;
+        font-weight: 700;
+        bottom:120px;
+    }
+    .navbar5 a{
+        display: block;
+        position: relative;
+        margin-left: 170px;
+        font-size:6px;
+        font-weight: 700;
+        bottom:120px;
+    }
+    .dio{
+        display: block;
+        position: relative;
+        margin-left: 150px;
+        bottom:105px;
+       width: 20px; 
+       height: 20px;
+       border-radius: 50%;
+    }
+    .dija{
+        width:150px;
+        height:100px;
+        border-radius: 10%;
+    }
+    .sec1{
+        padding-left:10vh;
+        width: 100%;
+        border-radius: 5%;
+    }
+    .navbar1{
+        display: block;
+    }
+    .sec2{
+        padding-left:10vh;
+        width: 100%;
+        border-radius: 5%;
+      }
+      .navbar2{
+        display: block;
+      }
+      .sec3{
+        padding-left:10vh;
+        width: 100%;
+        border-radius: 5%;
+      }
+      .navbar3{
+        display: block;
+      }
+      .sec4{
+        padding-left:10vh;
+        width: 100%;
+        border-radius: 5%;
+      }
+      .navbar4{
+        display: block;
+      }
+      .sec5{
+        line-height: 5px;
+        padding-left:10vh;
+        width: 100%;
+        border-radius: 5%;
+      }
+     
+      .navbar5{
+        display: block;
+        line-height: 20px;
+      }
+      .jour{
+        line-height:15px;
+      }
+}
